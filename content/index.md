@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Hey Curious!
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+open for frontend, full-stack dev 
